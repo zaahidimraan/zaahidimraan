@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zahid Imran</h1>
+<h1 align="center">Hi 👋, I'm Zahid Imran</h1> 
 <h3 align="center">Generative AI | Langchain | LLM | TTS | SST | AWS | MLOps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaahidimraan" alt="zaahidimraan" /></a> </p>
