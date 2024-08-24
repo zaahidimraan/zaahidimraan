@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zaahidimraan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bOzIYlk9hh3Ro6O2UTpz-DXY8OHRxwpF/view?usp=sharing](https://drive.google.com/file/d/1bOzIYlk9hh3Ro6O2UTpz-DXY8OHRxwpF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bOzIYlk9hh3Ro6O2UTpz-DXY8OHRxwpF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
